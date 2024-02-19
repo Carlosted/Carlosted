@@ -1,7 +1,7 @@
 Hi!
 
 - 🔭 I’m currently working on:
-  - A pull parser for latex to mathml conversion
+  - A pull parser for LaTeX to `mathml` conversion
   - McGill robotic team's rover project
   - Writing insightful blog posts
 - 💻 Please take a look at my [website](charles-ed.com)!
